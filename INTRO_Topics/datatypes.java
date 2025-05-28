@@ -10,10 +10,12 @@ public class datatypes {
         // The primitive data types in Java are:
         // byte, short, int, long, float, double, char, and boolean.
         
-        int integerNumber = 42; // Integer type
-        double decimalNumber = 3.14; // Floating-point type
-        char character = 'A'; // Character type
-        boolean isTrue = true; // Boolean type
+        int integerNumber = 42; 
+        double decimalNumber = 3.14; 
+        char character = 'A'; 
+        boolean isTrue = true; 
+        short shortNumber = 100; 
+        long longNumber = 123456789L; 
         
         // Reference Data Types
         // These are data types that refer to objects or arrays.
@@ -21,7 +23,7 @@ public class datatypes {
         // Common reference data types include:
         // String , Arrays, Classes, and Interfaces.
         
-        String text = "Hello, World!"; // String type (a sequence of characters)
+        String text = "Hello, World!"; 
         
         // Print the values of the variables
         System.out.println("Integer: " + integerNumber);
@@ -29,6 +31,8 @@ public class datatypes {
         System.out.println("Character: " + character);
         System.out.println("Boolean: " + isTrue);
         System.out.println("String: " + text);
+        System.out.println("Short: " + shortNumber);
+        System.out.println("Long: " + longNumber);
     }
     
 }
