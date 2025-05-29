@@ -18,3 +18,4 @@ public class switchcase {
         System.out.println(daynameString); // <- Add this
     }
 }
+    
