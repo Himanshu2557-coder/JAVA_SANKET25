@@ -19,11 +19,18 @@ public class functions{
         int sum = a + b;
         System.out.println("the sum of number is " + sum);
     }
-    // return type of function is the type of value that the function returns
-    // if a function does not return any value, its return type is void
-    // if a function returns a value, its return type is the type of the value it returns
-    // for example, if a function returns an integer, its return type is int
 
+    // functions examples to practice:
     
+    // 1. Function to greet customers
+    // 2. Function to add two numbers
+    // 3. Function to calculate the area of a rectangle
+    // 4. Function to find the maximum of two numbers
+    // 5. Function to check if a number is even or odd
+    // 6. Function to calculate the factorial of a number
+    // 7. Function to reverse a string
+    // 8. Function to check if a string is a palindrome
+
+
     
 }
